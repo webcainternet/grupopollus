@@ -48,12 +48,13 @@
 						<?php endif ?>
 
 						*/ ?>
-						<span style="text-transform: uppercase; font-size: 12px; margin-left: 15px;">Faça um orçamento</span>
-						<span style="text-transform: uppercase; font-size: 12px; margin-left: 15px;"><i class="fa fa-phone" aria-hidden="true"></i> (11) 5591-2400 / (11) 3467-1390</span>
+						<span style="text-transform: uppercase; font-size: 14px; margin-left: 15px;"><i class="fa fa-bars" aria-hidden="true"></i> Faça um orçamento</span>
+						
 					</ul>
 					<div>
-						<span style="text-transform: uppercase; font-size: 12px; margin-left: 15px;">Quem Somos</span>
-						<span style="text-transform: uppercase; font-size: 12px; margin-left: 15px;">Trabalhe conosco</span>
+						<span style="text-transform: uppercase; font-size: 12px; margin-left: 15px;">Av. Duquesa de Goiás, 832 - Real Parque - SP</span>
+<br>
+						<span style="text-transform: uppercase; font-size: 12px; margin-left: 15px;"><i class="fa fa-phone" aria-hidden="true"></i> 11 5591-2400</span>
 					</div>
 					
 	</li>
