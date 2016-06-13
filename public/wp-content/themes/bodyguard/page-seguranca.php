@@ -30,7 +30,7 @@
   			<article>
   				<div class="body field">
   					<?php // the_content(); ?>
-            <div style="background-image: url('/wp-content/uploads/2016/06/bg-seguranca.jpg'); height: 200px; width: 100%; margin-top: -30px; background-size: cover; background-repeat: no-repeat; margin-bottom: 30px;" /></div>
+            <div style="background-image: url('/wp-content/uploads/2016/06/bg-seguranca2.jpg'); height: 200px; width: 100%; margin-top: -30px; background-size: cover; background-repeat: no-repeat; margin-bottom: 30px;" /></div>
 
 
             <div class="grupo1">
