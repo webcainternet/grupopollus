@@ -58,7 +58,7 @@
 
             <div class="grupo1">
 
-              <div style="float: left; width: 25%;">
+              <div style="float: left; width: 25%;"><a name="pessoal"></a>
                     <div class="titulo1a">SEGURANÇA PESSOAL</div>
               </div>
 
@@ -79,7 +79,7 @@
 
             <div class="">
 
-              <div style="float: left; width: 25%;">
+              <div style="float: left; width: 25%;"><a name="eletronica"></a>
                     <div class="titulo1a">SEGURANÇA ELETRÔNICA</div>
               </div>
 
