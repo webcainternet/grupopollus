@@ -64,7 +64,7 @@
 
             <div class="grupo1">
 
-              <div style="float: left; width: 25%;">
+              <div style="float: left; width: 25%;"><a name="prime"></a>
                     <div class="titulo1a">SERVIÇOS PRIME PARA CONDOMÍNIOS</div>
               </div>
 
@@ -92,7 +92,7 @@
 
             <div class="" style="margin-bottom: 50px;">
 
-              <div style="float: left; width: 25%;">
+              <div style="float: left; width: 25%;"><a name="exclusivo"></a>
                     <div class="titulo1a">BENEFÍCIO EXCLUSIVO</div>
               </div>
 
