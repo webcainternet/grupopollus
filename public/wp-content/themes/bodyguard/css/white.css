@@ -233,13 +233,14 @@ div.wd-services {
 .wd-services .featured-box-text h4 {
   color: #B9906F;
   font-family: open sans;
-  font-size: 15px;
+  font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 700;
   line-height: 20px;
   margin-top: 10px;
   margin-bottom: 20px;
+  text-align: center;
 }
 
 div.vc_custom_1441214610146 {
